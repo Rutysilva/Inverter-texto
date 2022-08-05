@@ -1,0 +1,6 @@
+def inverter (txt):
+  return txt[::-1]
+  print(txt)
+
+print(inverter("texto"))
+print(inverter("Oi meu nome é Ruty, e estou cursando o 6º período do curso de Ciência da Computação. Estou ansiosa para adquirir mais conhecimentos e crescer juntamente com a empresa."))
